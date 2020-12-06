@@ -1,0 +1,2 @@
+armstrongnumber
+OutputInFrame

@@ -1,0 +1,2 @@
+palindromeNumber
+PalindromeOutput_inFrame

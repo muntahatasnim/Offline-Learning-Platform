@@ -1,0 +1,4 @@
+palindrome
+armstrongnumber
+PalindromeNumbers
+OutputInFrame
